@@ -1,0 +1,13 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es5",
+        "sourceMap": false,
+        "outDir": "www"
+    },
+    "files": [
+        "scripts/types/cordova.d.ts",
+        "scripts/types/textrecognizer.d.ts",
+        "scripts/textrecognizer.ts",
+    ],
+}
